@@ -1,4 +1,5 @@
 # Codecademy Oriented Object Project - OOP
+# Made by: Michael Andrés Mora Poveda / June 2023
 
 # Objective:
 # The aim of this guided project was apply several concepts regarding to
